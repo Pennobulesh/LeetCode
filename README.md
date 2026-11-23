@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pennobulesh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0771-jewels-and-stones](https://github.com/Pennobulesh/LeetCode/tree/master/0771-jewels-and-stones) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Pennobulesh/LeetCode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
