@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Pennobulesh/LeetCode/tree/master/0771-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Pennobulesh/LeetCode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
